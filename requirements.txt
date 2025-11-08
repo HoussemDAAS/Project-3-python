@@ -1,3 +1,18 @@
 jupyter>=1.0.0
 notebook>=6.0.0
 ipykernel>=6.0.0
+
+# Data Processing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# MySQL Connection
+sqlalchemy>=1.4.0
+pymysql>=1.0.0
+
+# NLP Processing
+nltk>=3.6.0
+
+# Translation
+googletrans==4.0.0-rc1
+langdetect>=1.0.9
