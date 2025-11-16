@@ -16,3 +16,7 @@ nltk>=3.6.0
 # Translation
 deep-translator>=1.11.4
 langdetect>=1.0.9
+transformers>=4.40.0
+scikit-learn>=1.4.0
+# For CPU-only, default index usually works; if not, install torch via CPU index
+torch>=2.4.0
